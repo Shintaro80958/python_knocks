@@ -1,8 +1,13 @@
 # custom
 *.csv
 *.txt
-
-
+*.xlsx
+*.json
+*.xml
+*.jpg
+*.avi
+*.iml
+*dat
 
 
 
